@@ -1,0 +1,52 @@
+{
+  "TextWithImage": [
+    {
+      "title": {
+        "text": "Title1",
+        "font_size": "14",
+        "font_weight": "normal",
+        "color": "black"
+      },
+      "subtitle": {
+        "text": "Subtitle1",
+        "font_size": "12",
+        "font_weight": "normal",
+        "color": "gray"
+      },
+      "image": {
+        "src": "https://www.clerkie.io/static/alex-e0b46011967fc058ff8fdbac2599b55f.jpg"
+      },
+      "click_action": "dismiss"
+    },
+    {
+      "title": {
+        "text": "Title2",
+        "font_size": "14",
+        "font_weight": "normal",
+        "color": "black"
+      },
+      "subtitle": {
+        "text": "Subtitle2",
+        "font_size": "12",
+        "font_weight": "normal",
+        "color": "gray"
+      },
+      "image": {
+        "src": "https://www.clerkie.io/static/alex-e0b46011967fc058ff8fdbac2599b55f.jpg"
+      },
+      "click_action": "dismiss"
+    },
+    {
+      "title": {
+        "text": "Title3",
+        "font_size": "14",
+        "font_weight": "normal",
+        "color": "black"
+      },
+      "image": {
+        "src": "https://www.clerkie.io/static/alex-e0b46011967fc058ff8fdbac2599b55f.jpg"
+      },
+      "click_action": "dismiss"
+    }
+  ]
+  }
